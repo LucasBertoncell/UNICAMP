@@ -1,3 +1,5 @@
 # UNICAMP
 
-MC101
+MC101 - Labs and misc code
+
+nothing to see here :)
